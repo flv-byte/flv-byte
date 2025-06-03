@@ -1,6 +1,6 @@
 - 👋 Hi, I’m flv
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on learning fun things :3
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm very silly :3 (and annoying >:3)
