@@ -1,6 +1,6 @@
 # Hey there, I'm FLV!
 
-Welcome to my corner of GitHub! This is where I make silly, fun, and cool stuff.
+Welcome to my corner of GitHub! This is where I make silly, fun and cool stuff.
 
 ---
 
