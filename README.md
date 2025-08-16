@@ -1,13 +1,13 @@
 # Hey there, I'm FLV!
 
-Welcome to my corner of GitHub! This is where I make silly, fun and cool stuff.
+Welcome to my corner of GitHub! This is where I make fun and cool stuff.
 
 ---
 
 ## 🛠 Projects & Fun
 - 🎵 **Random projects** – Coding random projects every day for no reason, maybe it turns out important in the future...
-- 💻 **Networking** – Servers, file sharing and more chaos!
-- 🌬 **Wind Turbine Project** – Science + engineering + a touch of silliness
+- 💻 **Networking** – Servers, file sharing and more stuff!
+- 🌬 **Wind Turbine Project** – Science + engineering + a touch of duct tape
 ---
 
 ## 🛠 Projects In The Works
