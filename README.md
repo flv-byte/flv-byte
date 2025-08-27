@@ -11,7 +11,7 @@ Welcome to my corner of GitHub! This is where I make fun and cool stuff.
 ---
 
 ## 🛠 Projects In The Works
-- 📂 **File sharing server** – Server for conveniently downloading and file sharing any specific directory!
+- 📂 **File sharing server** – Server for conveniently downloading and file sharing any specific directory! (Discountinued - Rewriting program in another language)
 ---
 
 ## 👤 About Me
