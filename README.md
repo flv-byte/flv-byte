@@ -8,10 +8,11 @@ Welcome to my corner of GitHub! This is where I make fun and cool stuff.
 - 🎵 **Random projects** – Coding random projects every day for no reason, maybe it turns out important in the future...
 - 💻 **Networking** – Servers, file sharing and more stuff!
 - 🌬 **Wind Turbine Project** – Science + engineering + a touch of duct tape
+- 🎮 **Games** – I practically don't know how to make a cool game, this section exists just because I am trying
 ---
 
 ## 🛠 Projects In The Works
-- 📂 **File sharing server** – Server for conveniently downloading and file sharing any specific directory! (Discountinued - Rewriting program in another language)
+- 📂 **File sharing server** – Server for conveniently downloading and file sharing any specific directory! (Discountinued - I am dumb)
 ---
 
 ## 👤 About Me
